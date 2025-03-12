@@ -15,7 +15,7 @@ public class NumberCalculator {
             }
         }
 
-        int result=total/counter;
+        double result=total/counter;
         System.out.println("Sayının 3 ve 4'e tam bölünen katlarının ortalaması: " + result);
     }
 }
